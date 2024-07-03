@@ -5,7 +5,7 @@
 <h1 align="center">🐍📦 Python Gists Importing</h1>
 
 <p align="center">
-    <a href="https://pypi.org/project/python-gists-import/"><img alt="Static Badge" src="https://img.shields.io/badge/📦_version-1.0.1-blue"></a>
+    <a href="https://pypi.org/project/python-gists-import/"><img alt="Static Badge" src="https://img.shields.io/badge/📦_version-1.0.2-blue"></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.11-yellow?logo=python"></a>
     <a href="https://python-poetry.org/"><img alt="Poetry" src="https://img.shields.io/badge/Poetry-1.8.3-blue?logo=Poetry"></a>
     <a href="https://github.com/astral-sh/ruff"><img alt="Ruff" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json"></a>
