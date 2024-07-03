@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/laurenzbeck/Python-Gists?tab=readme-ov-file#-usage">📦 Usage</a> •
-  <a href="https://github.com/laurenzbeck/Python-Gists?tab=readme-ov-file#-installation">🐍 Installation</a> •
-  <a href="https://github.com/laurenzbeck/Python-Gists?tab=readme-ov-file#-motivation">💡 Motivation</a> •
-  <a href="https://github.com/laurenzbeck/Python-Gists?tab=readme-ov-file#-publishing-a-gist">🆙 Publishing a Gist</a>
+  <a href="https://github.com/LaurenzBeck/gists?tab=readme-ov-file#-usage">📦 Usage</a> •
+  <a href="https://github.com/laurenzbeck/gists?tab=readme-ov-file#-installation">🐍 Installation</a> •
+  <a href="https://github.com/laurenzbeck/gists?tab=readme-ov-file#-motivation">💡 Motivation</a> •
+  <a href="https://github.com/laurenzbeck/gists?tab=readme-ov-file#-publishing-a-gist">🆙 Publishing a Gist</a>
 </p>
 
 ## 📦 Usage
@@ -87,13 +87,13 @@ According to a [blog post](https://zebracatzebra.com/oss/getting-the-gist-of-git
 
 Because the full license text can be quite large, which would diminish the visual appeal of shorter gists, one can also just mention the name of the license with a copyright date and the copyright owner.
 
-I included an example of this approach in the [📝 Template](https://github.com/laurenzbeck/Python-Gists?tab=readme-ov-file#-template)
+I included an example of this approach in the [📝 Template](https://github.com/laurenzbeck/gists?tab=readme-ov-file#-template)
 
 ### 📖 Referencing
 
 Unfortunately, [getting a DOI](https://docs.github.com/de/repositories/archiving-a-github-repository/referencing-and-citing-content) (document object identifier) from Zenodo only works with repositories.
 
-You can, however, include a bibitem in the description of your gist (see the [📝 Template](https://github.com/laurenzbeck/Python-Gists?tab=readme-ov-file#-template)):
+You can, however, include a bibitem in the description of your gist (see the [📝 Template](https://github.com/laurenzbeck/gists?tab=readme-ov-file#-template)):
 
 ```bibtex
 @misc{<bibkey>,
