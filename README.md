@@ -1,11 +1,11 @@
 <p align="center">
-    <img alt="treasure chest banner image" src="docs/artwork/isometric_chest_by_sephiroth_art_da0mr89-375w-2x.jpg">
+    <img alt="treasure chest banner image" src="https://github.com/LaurenzBeck/gists/blob/main/docs/artwork/isometric_chest_by_sephiroth_art_da0mr89-375w-2x.jpg?raw=true">
 </p>
 
 <h1 align="center">🐍📦 Python Gists Importing</h1>
 
 <p align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/📦_version-1.0.0-blue">
+    <a href="https://pypi.org/project/python-gists-import/"><img alt="Static Badge" src="https://img.shields.io/badge/📦_version-1.0.1-blue"><\a>
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.11-yellow?logo=python"></a>
     <a href="https://python-poetry.org/"><img alt="Poetry" src="https://img.shields.io/badge/Poetry-1.8.3-blue?logo=Poetry"></a>
     <a href="https://github.com/astral-sh/ruff"><img alt="Ruff" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json"></a>
@@ -35,10 +35,10 @@ The first time a gist is imported this way, it will be downloaded using GitHub's
 
 ## 🐍 Installation
 
-The package is published on PyPi, so it can be installed with pip using:
+The [package](https://pypi.org/project/python-gists-import/) is published on PyPi, so it can be installed with pip using:
 
 ```sh
-$pip install python-gists
+$pip install python-gists-import
 ```
 
 ## 💡 Motivation
@@ -127,10 +127,10 @@ Describe why the code in your gist is needed.
 
 ## 🐍 Installation
 
-This gist can be installed using the [`python-gists`]() package:
+This gist can be installed using the [`python-gists-import`]() package:
 
 ```sh
-$pip install python-gists
+$pip install python-gists-import
 ``` 
 
 After that, simply import the gist in your code via:

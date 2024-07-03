@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "python-gists"
-version = "1.0.0"
+name = "python-gists-import"
+version = "1.0.1"
 description = "🐍📦 this Python package provides a very convenient way to import GitHub gists in a pythonic way using `import` statements. "
 authors = ["Farthofer Laurenz <laurenz@hey.com>"]
 repository = "https://github.com/LaurenzBeck/gists.git"
