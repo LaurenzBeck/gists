@@ -1,6 +1,8 @@
-![treasure chest banner image](docs/artwork/isometric_chest_by_sephiroth_art_da0mr89-375w-2x.jpg)
+<p align="center">
+    <img alt="treasure chest banner image" src="docs/artwork/isometric_chest_by_sephiroth_art_da0mr89-375w-2x.jpg">
+</p>
 
-# 🐍📦 Python Gists Importing
+<h1 align="center">🐍📦 Python Gists Importing</h1>
 
 <p align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/📦_version-1.0.0-blue">
@@ -108,7 +110,7 @@ You can, however, include a bibitem in the description of your gist (see the [�
 
 #### Description
 
-```markdown
+````markdown
 # Title
 
 > 🚮 feel free to delete any section that is not helpful for your description (including this message).
@@ -127,9 +129,9 @@ Describe why the code in your gist is needed.
 
 This gist can be installed using the [`python-gists`]() package:
 
-&#96; &#96; &#96 sh
+```sh
 $pip install python-gists
-```
+``` 
 
 After that, simply import the gist in your code via:
 
@@ -159,8 +161,10 @@ Copyright <YEAR> <COPYRIGHT HOLDER>
   title={<the title of your gist>},
   year={<year of publication>},
   url={https://gist.github.com/<user name>/<gist id>},
-} 
+}
 ```
+
+````
 
 #### Code
 
